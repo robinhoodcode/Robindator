@@ -25,3 +25,4 @@ export default class Wallet extends EventEmitter<string | symbol, any> {
 }
 import EventEmitter from 'eventemitter3';
 import { PublicKey } from '@solana/web3.js';
+
