@@ -43,3 +43,4 @@ No verified buybacks have been recorded in this repository yet.
 When adding an entry, include the transaction hash, date, assets, amounts, and
 execution venue. A pull request must not describe an off-chain promise as a
 completed transaction.
+
