@@ -27,3 +27,4 @@ Keep each pull request focused and explain:
 
 Generated files, vendored dependencies, and unrelated formatting changes should
 not be included solely to inflate the size of a contribution.
+
