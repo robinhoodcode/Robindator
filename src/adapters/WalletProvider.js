@@ -195,3 +195,4 @@ function isObject(a) {
 function isFunction(a) {
   return typeof a === 'function';
 }
+
