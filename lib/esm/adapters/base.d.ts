@@ -12,3 +12,4 @@ export default abstract class WalletAdapter extends EventEmitter {
     abstract signMessage(data: Uint8Array, display: 'hex' | 'utf8'): Promise<Uint8Array>;
     abstract handleMessage(data: SolflareIframeMessage): void;
 }
+
