@@ -17,3 +17,4 @@ export default class IframeAdapter extends WalletAdapter {
     handleMessage: (data: SolflareIframeResponseMessage) => void;
     private _sendMessage;
 }
+
