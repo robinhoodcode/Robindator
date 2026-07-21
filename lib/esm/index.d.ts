@@ -40,3 +40,4 @@ export default class Solflare extends EventEmitter {
     private _disconnected;
     private _handleMobileMessage;
 }
+
