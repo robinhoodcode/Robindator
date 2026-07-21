@@ -122,3 +122,4 @@ export default class WebAdapter extends WalletAdapter {
     this.emit('disconnect');
   };
 }
+
