@@ -20,3 +20,4 @@ export default class WebAdapter extends WalletAdapter {
     private _handleConnect;
     private _handleDisconnect;
 }
+
